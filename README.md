@@ -9,7 +9,6 @@
 
 ## Dataset
 The project uses publicly available datasets like:  
-- Boston Housing dataset  
 - California Housing dataset  
 
 Typical features include:
